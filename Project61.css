@@ -1,0 +1,44 @@
+body{
+ background-color:aqua;
+ text-align:center;
+ font-family: langar;
+}
+img{
+ margin-left: 185px;
+ border-radius:60px;
+}
+h3{
+  color:white;
+}
+.menu{
+    color:green;
+    float: right;
+}
+.links:hover{
+    background-color: coral;
+    display: inline;
+}
+
+h1{
+    font-size: 35px;
+    color:blue;
+}
+p{
+ font-size: 35px;
+ color: darkred;
+}
+h3{
+    font-size: 18px;
+}
+div{
+    color: darkviolet;
+    font-size: 50px;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+#bryana{
+margin-right: 200px;
+}
+
